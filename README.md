@@ -16,12 +16,12 @@ The goal of the game is to combine tiles to reach the value **2048**.
 ---
 ###Controls
 
-* ⬅️ `Left Arrow` – move left
-* ➡️ `Right Arrow` – move right
-* ⬆️ `Up Arrow` – move up
-* ⬇️ `Down Arrow` – move down
-* 🤖 `a` – activate auto-play (robot move)
-* 🔙 `q` – return to menu / quit
+* `Left Arrow` – move left
+* `Right Arrow` – move right
+* `Up Arrow` – move up
+* `Down Arrow` – move down
+* `a` – activate auto-play (robot move)
+* `q` – return to menu / quit
 
 ---
 
